@@ -1,0 +1,11 @@
+ID,Name,Age,Salary,Join_Date,Department,Score
+1,Ritesh,24,45000,2022-05-10,Sales,89.0
+2,Priya,,52000,05/12/2021,HR,91.0
+3,,34,61000,2021/11/02,Finance,
+4,Amit,29,48000,,sales,76.0
+5,Sneha,twenty,55000,2020-8-15,IT,88.0
+6,Ritesh,24,45000.0,2022-05-10,Sales,89.0
+7,,31,,2021-03-22,finance,64.0
+8,Arjun,27,47000,13-09-2020,IT,
+9,Meera,28,fiftyfive,2020-02-30,HR,82.0
+10,Kavya,26,52000,2022-07-11,,95.0
